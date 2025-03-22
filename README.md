@@ -21,7 +21,6 @@ This repo will include:
 ⚠️ **This repository is NOT plug-and-play.** You need:  
 - **Jenkins Setup** (with necessary plugins and credentials)  
 - **SonarQube Server** for code analysis  
-- **Docker & Kubernetes Configurations**  
 - **Cloud Account** (AWS/GCP/Azure) if using cloud services  
 - **Custom Credentials** for Nexus, AWS, Slack, or other integrations  
 
